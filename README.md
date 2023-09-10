@@ -7,10 +7,8 @@ I'm a passionate about software enginering, always eager to learn and explore ne
 ## 🚀 What I Do
 
 - 🌐 Front-end Development with HTML, CSS, and JavaScript
-- 📊 Data Visualization with D3.js and Plotly
 - 🚀 Building Interactive Web Applications
-- 🧪 Experimenting with Machine Learning and AI
-
+  
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
